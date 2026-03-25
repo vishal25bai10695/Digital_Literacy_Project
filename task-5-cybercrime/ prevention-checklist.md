@@ -1,7 +1,7 @@
 # Follow these 8 tips to keep your data and money safe while studying and socializing online:
 
 1.  Never Share Your UPI PIN to Receive Money: Remember, you only enter your PIN when you are sending money. If someone asks for your PIN to refund it is a scam.
-2.  Verify the Payee Name: Before clicking 'Pay' on any UPI app (GPay, PhonePe, Paytm), always double check the name of the person or shop appearing on the screen to ensure it is correct.
+2.  Verify the Payee Name: Before clicking Pay on any UPI app (GPay, PhonePe, Paytm), always double check the name of the person or shop appearing on the screen to ensure it is correct.
 3.  Enable Two-Factor Authentication:Turn on 2FA for your Gmail, LinkedIn, and Instagram accounts. This requires a second code from your phone, making it much harder for hackers to get in.
 4.  Check the URL **:** Before entering your password on any site, look at the address bar. Make sure it starts with **https://** and the name is spelled correctly
 5.  Use Strong, Unique Passwords: Avoid using your name or birthdate as a password. Use a mix of letters, numbers, and symbols, and never use the same password for your bank and your social media.
