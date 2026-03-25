@@ -3,8 +3,11 @@
 # Student Details
 
 Name: VISHAL SONI
+
 Registration Number: 25BAI10695
+
 Branch: CSE (AI & ML)
+
 Course: Digital Literacy (CSE0001)
 
 # Project Overview
