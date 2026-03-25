@@ -1,6 +1,6 @@
-**Responsible social media use as a college student**.
+# Responsible social media use as a college student #
 
-# DO’s
+**DO’s**
 
 1.Do use a professional profile
 
@@ -32,7 +32,7 @@ AI and ML to build your professional
 
 network.
 
-# DON’T
+**DON’T**
 
 1.Don’t post offensive, disrespectful,
 
