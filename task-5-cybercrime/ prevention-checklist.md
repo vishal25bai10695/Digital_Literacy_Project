@@ -7,7 +7,7 @@
 5.  Use Strong, Unique Passwords: Avoid using your name or birthdate as a password. Use a mix of letters, numbers, and symbols, and never use the same password for your bank and your social media.
 6.  Be Careful with Public Wi-Fi: Avoid logging into your bank account or making payments while using free Wi-Fi at cafes or railway stations. These networks are often not secure.
 7.  Think Before You Click: If you receive an urgent SMS or WhatsApp message with a link even if it looks like it is from your college or a courier company do not click it. Go to the official website manually instead.
-8.  Keep Your Software Updated**:** Always update your phone’s operating system and your apps.
+8.  Keep Your Software Updated: Always update your phone’s operating system and your apps.
 
 If you or a friend are ever cheated online, act quickly. Reporting within the first two hours gives the police the best chance to freeze the stolen money.
 
