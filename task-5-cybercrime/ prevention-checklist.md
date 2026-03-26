@@ -12,6 +12,6 @@
 If you or a friend are ever cheated online, act quickly. Reporting within the first two hours gives the police the best chance to freeze the stolen money.
 
 National Helpline Number:Call 1930 immediately.
-Cybercrime Portal: https://www.cybercrime.gov.in/
+Cybercrime Portal: https://www.cybercrime.gov.in
 
 
